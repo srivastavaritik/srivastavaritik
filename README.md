@@ -11,5 +11,5 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-one-zeta.vercel.app/api/spotify-playing" alt="Ritik's Spotify Playing" width="350" />](https://open.spotify.com/user/314ga2uhgreejio6gahh3skgkody)
+[<img src="https://novatorem-one-zeta.vercel.app/api/spotify-playing" alt="Ritik's Spotify Playing" width="350" />]
 
