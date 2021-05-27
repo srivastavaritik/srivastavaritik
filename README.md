@@ -11,4 +11,4 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://srivastavaritik.vercel.app/api/spotify)](https://open.spotify.com/user/srivastavaritik)
+[![Spotify]<img src="https://novatorem-one-zeta.vercel.app/api/spotify-playing" alt="Ritik's Spotify Playing" width="350" />](https://srivastavaritik.vercel.app/api/spotify)](https://open.spotify.com/user/srivastavaritik)
