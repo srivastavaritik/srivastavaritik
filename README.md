@@ -41,13 +41,13 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+[![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivastavaritik)]
   <img align="left" alt="Ritik's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
 [website]: riteck.co
-[twitter]: https://twitter.com/ritikk
+[twitter]: https://twitter.com/srivastavritikk
 [youtube]: https://www.youtube.com/channel/UCpHtfSctzcIsrEx4PZ1UUZw
 [instagram]: https://instagram.com/theritiksrivastava
 [linkedin]: https://linkedin.com/in/ritik-kumar-3bb19a175/
