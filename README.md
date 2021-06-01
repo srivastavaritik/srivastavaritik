@@ -42,7 +42,7 @@
 
 
 
-[website]: riteck.co
+[website]: http://riteck.co
 [twitter]: https://twitter.com/srivastavritikk
 [youtube]: https://www.youtube.com/channel/UCpHtfSctzcIsrEx4PZ1UUZw
 [instagram]: https://instagram.com/theritiksrivastava
