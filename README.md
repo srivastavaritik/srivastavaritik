@@ -7,7 +7,7 @@
 - 📫 You can reach me through my LinkedIn https://www.linkedin.com/in/ritik-kumar-3bb19a175/
 - ⚡ Fun fact: Sab moh maya hai😄😄😄
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=srivastavaritik&label=Profile%20views&color=0e75b6&style=flat" alt="Ritik Kumar" /> </p>
 
 ### Spotify Playing 🎧
 [<img src="https://githubplaying-srivastavaritik.vercel.app/api/spotify.py" alt="Ritik's Spotify Playing" width="350" />](https://open.spotify.com/user/314ga2uhgreejio6gahh3skgkody)
