@@ -1,3 +1,9 @@
+<p align="center"> 
+
+<img style="margin:auto;height:200px;" src="https://user-images.githubusercontent.com/83454075/180928900-62047562-846b-44eb-a954-2a5489425ded.gif"  />
+ </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srivastavaritik&label=Profile%20views&color=0e75b6&style=flat" alt="Ritik Kumar" /> </p>
+
 ### Hi there, here's what I'm currently doing 👋
 
 - 🔭 I’m currently working on WEB Projects
@@ -5,9 +11,7 @@
 - 👯 I’m looking to collaborate on Opensource Projects and with Content Creators
 - 💬 Ask me about Java, Data Structure & Algorithms, Full Stack Web Developement
 - 📫 You can reach me through my LinkedIn https://www.linkedin.com/in/ritik-kumar-3bb19a175/
-- ⚡ Fun fact: Sab moh maya hai😄😄😄
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=srivastavaritik&label=Profile%20views&color=0e75b6&style=flat" alt="Ritik Kumar" /> </p>
 
 ### Spotify Playing 🎧
 [<img src="https://githubplaying-srivastavaritik.vercel.app/api/spotify.py" alt="Ritik's Spotify Playing" width="350" />](https://open.spotify.com/user/314ga2uhgreejio6gahh3skgkody)
