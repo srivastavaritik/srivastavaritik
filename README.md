@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on WEB Projects
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on Opensource Projects and with Content Creators
+- 👯 I’m looking to collaborate on Opensource Projects
 - 💬 Ask me about Java, Data Structure & Algorithms, Full Stack Web Developement
 - 📫 You can reach me through my LinkedIn https://www.linkedin.com/in/ritik-kumar-3bb19a175/
 
