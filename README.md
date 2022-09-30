@@ -41,7 +41,7 @@
 <br />
 <br />
 
-[![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivastavaritik&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivastavaritik&show_icons=true&theme=github_dark)](https://github.com/srivastavaritik/github-readme-stats)
 
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srivastavaritik&theme=github_dark&show_icons=true" />
  
