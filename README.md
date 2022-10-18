@@ -41,11 +41,20 @@
 <br />
 <br />
 
-[![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=srivastavaritik&show_icons=true&theme=github_dark)](https://github.com/srivastavaritik/github-readme-stats)
-
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srivastavaritik&theme=github_dark&show_icons=true" />
- 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavaritik&theme=github_dark" />
+<br/>
+<p align="center" >
+<a href="https://github.com/srivastavaritik/convoychat">
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=srivastavaritik&show_icons=true&count_private=true&layout=compact&theme=dark&hide_border=true)](https://github.com/akd-01/github-readme-stats>
+</a>
+ </p>
+<br>
+<p align="center">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivastavaritik&count_private=true&theme=gruvbox_duo" alt="https://github.com/akd-01" />
+</p>
+<br/>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivastavaritik&show_icons=true&theme=dark&count_private=true&hide_border=true&locale=en&layout=compact" alt="akd-01" />
+</p>
 
 
 
