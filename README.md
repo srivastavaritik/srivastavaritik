@@ -63,3 +63,5 @@
 [youtube]: https://www.youtube.com/channel/UCpHtfSctzcIsrEx4PZ1UUZw
 [instagram]: https://instagram.com/theritiksrivastava
 [linkedin]: https://linkedin.com/in/ritik-kumar-3bb19a175/
+
+[![@srivastavaritik's Holopin board](https://holopin.me/srivastavaritik)](https://holopin.io/@srivastavaritik)
