@@ -12,10 +12,10 @@
 - 💬 Ask me about C\CPP, Java, Data Structure & Algorithms, Full Stack Web Developement.
 - 📫 You can reach me through my LinkedIn https://www.linkedin.com/in/ritik-kumar-3bb19a175/
 
-
+<!---
 ### Spotify Playing 🎧
 [<img src="https://githubplaying-srivastavaritik.vercel.app/api/spotify.py" alt="Ritik's Spotify Playing" width="350" />](https://open.spotify.com/user/314ga2uhgreejio6gahh3skgkody)
-
+--->
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
