@@ -32,20 +32,21 @@
 <br />
 
 <br/>
-<p align="center" >
+<!--- <p align="center" >
 <a href="https://github.com/srivastavaritik/convoychat">
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=srivastavaritik&show_icons=true&count_private=true&layout=compact&theme=dark&hide_border=true)](https://github.com/akd-01/github-readme-stats>
 </a>
- </p>
+ </p> --->
 <br>
 <p align="center">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivastavaritik&count_private=true&theme=gruvbox_duo" alt="https://github.com/akd-01" />
 </p>
 <br/>
+<!---
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivastavaritik&show_icons=true&theme=dark&count_private=true&hide_border=true&locale=en&layout=compact" alt="akd-01" />
 </p>
-
+--->
 
 
 [website]: http://ritikk.me
