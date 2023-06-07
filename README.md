@@ -32,22 +32,17 @@
 <br />
 
 <br/>
-<p align="center" >
-<a href="https://github.com/srivastavaritik/convoychat">
-  <img align="center" src=https://github-readme-stats.vercel.app/api?username=srivastavaritik&show_icons=true&count_private=true&layout=compact&theme=dark&hide_border=true)](https://github.com/akd-01/github-readme-stats>
-</a>
- </p>
-<br>
-<p align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivastavaritik&count_private=true&theme=gruvbox_duo" alt="https://github.com/akd-01" />
-</p>
-<br/>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivastavaritik&show_icons=true&theme=dark&count_private=true&hide_border=true&locale=en&layout=compact" alt="akd-01" />
-</p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=srivastavaritik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=srivastavaritik&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavaritik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 
-[website]: http://ritikk.me
+
+[website]: http://riteck.vercel.app/
 [twitter]: https://twitter.com/srivastavritikk
 [youtube]: https://www.youtube.com/channel/UCpHtfSctzcIsrEx4PZ1UUZw
 [instagram]: https://instagram.com/theritiksrivastava
